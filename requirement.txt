@@ -1,0 +1,3 @@
+pip install fbchat-async
+pip install openai==0.28
+pip install Flask
